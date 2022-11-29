@@ -128,13 +128,21 @@
                 "file": "2022-10-25.md"
               }
             }
+          },
+          {
+            "id": "9884c31350801b44",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "0bc1de77e85b8c0c",
   "lastOpenFiles": [
