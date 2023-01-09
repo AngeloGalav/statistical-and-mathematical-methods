@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022-10-25.md",
+                "file": "Digest/Numerical computation.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-10-25.md",
+                "file": "Digest/Numerical computation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-10-25.md",
+                "file": "Digest/Numerical computation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-10-25.md"
+                "file": "Digest/Numerical computation.md"
               }
             }
           },
@@ -145,17 +145,27 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "9884c31350801b44",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0bc1de77e85b8c0c",
   "lastOpenFiles": [
-    "Intro.md",
-    "2022-10-25.md",
-    "2022-10-24.md",
-    "2022-10-21.md",
-    "2022-10-18.md",
-    "Untitled.md",
+    "README.md",
+    "2022-09-30.md",
     "2022-10-11.md",
     "2022-10-17.md",
-    "2022-09-30.md",
-    "2022-10-14.md"
+    "2022-10-18.md",
+    "2022-10-21.md",
+    "2022-10-24.md",
+    "2022-10-25.md",
+    "Intro.md",
+    "Untitled.md"
   ]
 }
