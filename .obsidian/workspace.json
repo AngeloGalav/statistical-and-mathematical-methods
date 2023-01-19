@@ -25,13 +25,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022-10-18.md",
+                "file": "old_notes/2022-09-30.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "46b40fcee15c68fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "old_notes/2022-10-11.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "37af33cb02e3f670",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f6bbcc6533847655",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "old_notes/2022-10-18.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -81,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6ab081570153d07f",
@@ -98,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digest/3. Numerical Optimization.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Digest/3. Numerical Optimization.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Digest/3. Numerical Optimization.md"
+                "file": "README.md"
               }
             }
           },
@@ -167,17 +203,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0bc1de77e85b8c0c",
+  "active": "37af33cb02e3f670",
   "lastOpenFiles": [
-    "2022-10-18.md",
-    "Digest/3. Numerical Optimization.md",
-    "2022-10-17.md",
-    "2022-10-25.md",
-    "2022-10-21.md",
-    "Digest/1. Numerical computation.md",
-    "Digest/2. Linear Algebra (a small cheat-sheet).md",
-    "2022-09-30.md",
-    "2022-10-11.md",
-    "images/chain_rule_example.png"
+    "Intro.md",
+    "old_notes/2022-10-25.md",
+    "images/automatic_diff_example.png",
+    "old_notes/2022-10-18.md",
+    "old_notes/2022-10-21.md",
+    "old_notes/2022-10-17.md",
+    "old_notes/2022-10-11.md",
+    "old_notes/2022-09-30.md",
+    "old_notes/2022-10-24.md",
+    "Digest/3. Numerical Optimization.md"
   ]
 }
