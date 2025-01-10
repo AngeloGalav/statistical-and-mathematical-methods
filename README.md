@@ -1,11 +1,9 @@
-# Statistical Methods for AI
+# stats homeworks for 2024
+Contains the homework files for the 2024 version of the stats exam.
 
-## What is this? 
-....
+In `consegna-ready` folder you'll find the homeworks stripped of the comments and descriptions.
 
-
-## Why are the lesson notes incomplete?
-## What are 'digests'?
-## Acknoledgments
-- Lesson-based notes are there just for preservation, but are not really useful in any way.  
-- Digest versions based on the actual good notes. https://github.com/MatteoDonati/unibo_artificial_intelligence_notes
+## Homework 1
+## Homework 2
+## Homework 3
+## Homework 4
