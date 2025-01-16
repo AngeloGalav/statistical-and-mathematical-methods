@@ -7,3 +7,23 @@ In `consegna-ready` folder you'll find the homeworks stripped of the comments an
 ## Homework 2
 ## Homework 3
 ## Homework 4
+
+
+## todos
+
+- hw2
+    - [ ] check if all points are done correctly
+    - [ ] write comments
+
+- hw3
+    - [ ] finish gd part
+    - [ ] finish sgd part
+
+- hw4
+    - [ ] fix vanderlind matrix in h
+    - [ ] setup results pipeline
+    - [ ] do sgd
+    - [ ] do MAP part
+
+
+
