@@ -11,6 +11,8 @@ In `consegna-ready` folder you'll find the homeworks stripped of the comments an
 
 ## todos
 
+- [ ] GIANT REVISION!
+
 - hw2
     - [ ] check if all points are done correctly
     - [ ] write comments
@@ -20,10 +22,12 @@ In `consegna-ready` folder you'll find the homeworks stripped of the comments an
     - [ ] finish sgd part
 
 - hw4
-    - [ ] fix vanderlind matrix in h
     - [ ] setup results pipeline
+    - [ ] USE THE ERROR!!!
     - [ ] do sgd
     - [ ] do MAP part
+    - [ ] fix Ks to be uniform
+    - [ ] cholesky in MAP?
 
 
 
