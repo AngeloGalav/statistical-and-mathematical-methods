@@ -17,9 +17,6 @@ In `consegna-ready` folder you'll find the homeworks stripped of the comments an
     - [ ] check if all points are done correctly
     - [ ] write comments
 
-- hw3
-    - [ ] finish gd part
-        - [ ] display results with backtraCKING
 
 - hw4
     - [ ] setup results pipeline
