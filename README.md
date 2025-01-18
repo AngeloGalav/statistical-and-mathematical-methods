@@ -14,17 +14,10 @@ In `consegna-ready` folder you'll find the homeworks stripped of the comments an
 - [ ] GIANT REVISION!
 
 - hw2
-    - [ ] check if all points are done correctly
     - [ ] write comments
 
-
 - hw4
-    - [ ] setup results pipeline
-    - [ ] USE THE ERROR!!!
-    - [ ] do sgd
-    - [ ] do MAP part
-    - [ ] fix Ks to be uniform
-    - [ ] cholesky in MAP?
+    - [ ] WRITE COMMENTS
 
 
 
