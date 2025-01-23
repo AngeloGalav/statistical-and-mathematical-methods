@@ -10,12 +10,6 @@ In `consegna-ready` folder you'll find the homeworks stripped of the comments an
 
 
 ## todos
-
-- [ ] GIANT REVISION!
-
-- hw2
-    - [ ] write comments
-
 - hw4
     - [ ] WRITE COMMENTS
 
