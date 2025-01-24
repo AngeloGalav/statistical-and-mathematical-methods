@@ -7,11 +7,3 @@ In `consegna-ready` folder you'll find the homeworks stripped of the comments an
 ## Homework 2
 ## Homework 3
 ## Homework 4
-
-
-## todos
-- hw4
-    - [ ] WRITE COMMENTS
-
-
-
