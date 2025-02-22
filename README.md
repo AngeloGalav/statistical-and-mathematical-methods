@@ -1,7 +1,7 @@
-# Assignments of Statistical and Mathematical Methods for AI Course (2024)
+# Assignments for Statistical and Mathematical Methods for AI Course (2024)
 Contains the homework files for the 2024/2025 version of the SMMAI exam.
 
-Full homework descriptions [here](https://devangelista2.github.io/statistical-mathematical-methods)
+Full homework descriptions [here](https://devangelista2.github.io/statistical-mathematical-methods).
 
 ## Homework 1
 #### Direct Methods for the solution of Linear Systems
